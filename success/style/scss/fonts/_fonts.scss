@@ -1,0 +1,37 @@
+@font-face {
+    font-family: 'TT Hoves';
+    src: local('TT Hoves Black'), local('scss/fonts/TT-Hoves-Black'),
+        url('scss/fonts/TTHoves-Black.woff2') format('woff2'),
+        url('scss/fonts/TTHoves-Black.woff') format('woff'),
+        url('scss/fonts/TTHoves-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'TT Hoves';
+    src: local('TT Hoves Bold'), local('scss/fonts/TT-Hoves-Bold'),
+        url('scss/fonts/TTHoves-Bold.woff2') format('woff2'),
+        url('scss/fonts/TTHoves-Bold.woff') format('woff'),
+        url('scss/fonts/TTHoves-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TT Hoves';
+    src: local('TT Hoves Medium'), local('scss/fonts/TT-Hoves-Medium'),
+        url('scss/fonts/TTHoves-Medium.woff2') format('woff2'),
+        url('scss/fonts/TTHoves-Medium.woff') format('woff'),
+        url('scss/fonts/TTHoves-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'TT Hoves';
+    src: local('TT Hoves Regular'), local('scss/fonts/TT-Hoves-Regular'),
+        url('scss/fonts/TTHoves-Regular.woff2') format('woff2'),
+        url('scss/fonts/TTHoves-Regular.woff') format('woff'),
+        url('scss/fonts/TTHoves-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
